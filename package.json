@@ -1,0 +1,25 @@
+{
+  "name": "gulp-jsx-sourcemap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yibuyisheng/gulp-jsx-sourcemap.git"
+  },
+  "author": "yibuyisheng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yibuyisheng/gulp-jsx-sourcemap/issues"
+  },
+  "homepage": "https://github.com/yibuyisheng/gulp-jsx-sourcemap",
+  "dependencies": {
+    "gulp-util": "^3.0.4",
+    "object-assign": "^2.0.0",
+    "react-tools": "^0.13.0",
+    "through2": "^0.6.3"
+  }
+}
